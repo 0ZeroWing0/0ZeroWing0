@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @0ZeroWing0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C and C++
+- 👋 Hi, I’m Saarthak Pant
+- 👀 I’m interested in ..
+- 🌱 I’m currently learning C++, Python, Revrse Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-0ZeroWing0/0ZeroWing0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saarthak_Pant/SaarthakPantis a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
